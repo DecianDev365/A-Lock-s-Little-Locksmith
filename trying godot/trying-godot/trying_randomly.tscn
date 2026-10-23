@@ -1,0 +1,19 @@
+[gd_scene format=3 uid="uid://cm8kob2j4grjy"]
+
+[ext_resource type="PackedScene" uid="uid://bf06m7weprdnx" path="res://icon.tscn" id="1_mjcrw"]
+
+[node name="Node2D" type="Node2D" unique_id=1612965380]
+
+[node name="Node2D" parent="." unique_id=1520258662 instance=ExtResource("1_mjcrw")]
+position = Vector2(876, 483)
+
+[node name="Node2D2" parent="." unique_id=1424376554 instance=ExtResource("1_mjcrw")]
+position = Vector2(973, 121)
+
+[node name="Node2D3" parent="." unique_id=272671818 instance=ExtResource("1_mjcrw")]
+position = Vector2(166, 190)
+
+[node name="Node2D4" parent="." unique_id=1603983702 instance=ExtResource("1_mjcrw")]
+position = Vector2(518, 287)
+rotation = 0.82466936
+scale = Vector2(1.4648256, 1.5783527)
